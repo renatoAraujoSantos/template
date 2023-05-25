@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <img width=40% src="./assets/image/template-git.gif"/>
+    <img width=30% src="./assets/image/template-git.gif"/>
 </p>
 
 
